@@ -1,4 +1,6 @@
-#Demo Repo fro Middleman 4 Webpack 2 integration
+# Demo Repo fro Middleman 4 Webpack 2 integration
+
+Origional Blog [post](https://chase.pursu.es/webpack-2-and-middleman-4.html) below. 
 
 ### A quick guide to using Webpack 2 with Middleman 4
 
